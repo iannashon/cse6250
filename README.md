@@ -5,6 +5,9 @@ This repository is for CSE6259 project. The main objective for this project is t
 - Any readmission during the dataset timeframe  
 This project aims to replicate findings from X, Liu et al. in 2019 (https://arxiv.org/abs/1912.10306)
 
+## Presentation video
+https://youtu.be/OgMfRNKJrqc
+
 ## Dependencies
 In our project we have used the following dependencies
 - Pyspark, pandas
